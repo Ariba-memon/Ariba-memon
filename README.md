@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thearibamemon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thearibamemon/" height="30" width="40" /></a>
 <a href="https://fb.com/thearibamemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aribamemon" height="30" width="40" /></a>
 <a href="https://www.behance.net/aaqgraphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aaqgraphics" height="30" width="40" /></a>
-<a href="https://medium.com/aribabdulqadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aribabdulqadir" height="30" width="40" /></a>
+<a href="https://aribaabdulqadir786.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aribabdulqadir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
