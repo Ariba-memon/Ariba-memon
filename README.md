@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 <h1 align="center">Hi 👋, I'm Ariba Memon</h1>
 <h3 align="center">A passionate Application Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / ReactJS / NextJS / NodeJS / MongoDB / ExpressJS / React Native and some other cool libraries and frameworks. from Pakistan</h3>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/aribamemon786" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/aribamemon786?logo=twitter&style=for-the-badge" alt="https://twitter.com/aribamemon786" /></a> </p>
+
 
 - 🌱 I’m currently learning **Web 3.0**
 
