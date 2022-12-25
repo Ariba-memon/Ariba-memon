@@ -30,7 +30,7 @@ https://api.githubtrends.io/user/svg/Ariba-memon/repos?time_range=one_year&theme
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariba-memon&show_icons=true&locale=en&layout=compact" alt="ariba-memon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariba-memon&show_icons=true&locale=en" alt="ariba-memon" /></p>
- https://api.githubtrends.io/user/svg/Ariba-memon/langs?time_range=one_year&theme=bright_lights
+
 
  
  
