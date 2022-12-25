@@ -1,8 +1,8 @@
 ![360_F_441394586_J5gGPwW5f2QPO54nsXHWDA5lHz1YZ5YQ](https://user-images.githubusercontent.com/76126161/209477157-00c3eef4-8500-48b1-b992-bf103ae55ddc.jpg)
 
 
-### Hi there 👋 hope you're good.
-Welcome to my GitHub profile!
+<h1 align="center">### Hi there 👋 hope you're good.</h1>
+<h2 align="center">Welcome to my GitHub profile!</h2>
 <h1 align="center">Hi 👋, I'm Ariba Memon</h1>
 <h3 align="center">A passionate Application Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / ReactJS / NextJS / NodeJS / MongoDB / ExpressJS / React Native and some other cool libraries and frameworks. from Pakistan</h3>
 
