@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web 3.0**
 
-- 📝 I regularly write articles on (https://medium.com/@aribaabdulqadir786)
+- 📝 I regularly write articles on (https://medium.com/@aribaabdulqadir)
 
 - 💬 Ask me about **React,React Native**
 
