@@ -18,8 +18,7 @@
 
 - 📄 Know about my experiences [https://resume.io/r/wNb1zNl51](https://resume.io/r/wNb1zNl51)
  
--![image](https://user-images.githubusercontent.com/76126161/219941662-c05cc56c-8728-4892-ad33-77f0bfd1b426.png)
-Google Developer Student Club(https://gdsc.community.dev/u/mwbwxr/#/about)
+-Google Developer Student Club(https://gdsc.community.dev/u/mwbwxr/#/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
