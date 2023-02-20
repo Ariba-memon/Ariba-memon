@@ -20,7 +20,9 @@
 
 - Google Developer Student Club(https://gdsc.community.dev/u/mwbwxr/#/about)
  
+📺 My YouTube Channel
 
+- Coding Technical Star (https://www.youtube.com/@codingtechnicalstar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
