@@ -24,6 +24,7 @@
 
 - Coding Technical Star (https://www.youtube.com/@codingtechnicalstar)
 
+![](https://komarev.com/ghpvc/?Ariba-memon=Ariba-memon&color=green)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/aribamemon786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aribamemon786" height="30" width="40" /></a>
