@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aribaabdulqadir786@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/wNb1zNl51](https://resume.io/r/wNb1zNl51)
+- 📄 Know about my experiences [https://resume.io/r/g45KdB5HH](https://resume.io/r/g45KdB5HH)
 
 - Google Developer Student Club(https://gdsc.community.dev/u/mwbwxr/#/about)
  
