@@ -4,7 +4,7 @@
 <h1 align="center"> Hi there 👋 hope you're good.</h1>
 <h2 align="center">Welcome to my GitHub profile!</h2>
 <h1 align="center">Hi 👋, I'm Ariba Memon</h1>
-<h3 align="center">A passionate Application Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / ReactJS / NextJS / NodeJS / MongoDB / ExpressJS / React Native and some other cool libraries and frameworks. from Pakistan</h3>
+<h3 align="center">A passionate Mern Stack & Chatbot Developer 🚀 having experience in building Web and Mobile applications with JavaScript / ReactJS / NextJS / NodeJS / MongoDB / ExpressJS / React Native  / Alexa/ Dialogflow  /Generative ai and some other cool libraries and frameworks. from Pakistan</h3>
 
 
 
@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on (https://medium.com/@aribaabdulqadir)
 
-- 💬 Ask me about **React,React Native**
+- 💬 Ask me about **NextJs ReactJs ,React Native,Alexa,Dialoglow,Chatbots**
 
 - 📫 How to reach me **aribaabdulqadir786@gmail.com**
 
