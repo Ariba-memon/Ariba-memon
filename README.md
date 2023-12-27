@@ -20,13 +20,13 @@
 
 - 📫 How to reach me **aribaabdulqadir786@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/g45KdB5HH](https://resume.io/r/g45KdB5HH)
+  
 
 - Intelligent phone call / IVR Chatbot.
 - Google assistant apps - Google smart home apps.
 - Amazon Alexa skill - Alexa smart home apps.
 - WhatsApp, Facebook, Slack, Skype, Twitter, Telegram Chatbot.
-- All sorts of customized Chatbot to integrate into Android, iOS, and Web Apps.
+- All sorts of customized chatbots to integrate into Android, iOS, and Web Apps.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
