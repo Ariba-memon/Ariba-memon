@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">
 </p>
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://dev.to/aribamemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aribamemon" height="30" width="40" /></a>
 <a href="https://twitter.com/aribamemon786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aribamemon786" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thearibamemon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thearibamemon/" height="30" width="40" /></a>
@@ -116,9 +116,9 @@
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aribamemon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aribamemon" /></a></p><br><br>
-https://github-readme-stats.vercel.app/api?username=Ariba-memon&show_icons=true&theme=radical
+
 
 
 
