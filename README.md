@@ -94,6 +94,8 @@
     <img src="https://img.shields.io/badge/Ant%20Design-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design">
     <img src="https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
     <img src="https://img.shields.io/badge/DaisyUI-%2322ADF6?style=for-the-badge&logo=laravel&logoColor=white" alt="DaisyUI">
+    <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+
 </p>
 
 
@@ -133,6 +135,9 @@
 <img src="https://img.shields.io/badge/adobe%20xd-%23FF26BE.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD">
 </p>
 
+
+<h3 align="center">🎨 MY YOUTUBE VIDEO'S:</h3>
+[![NEXTJS Playlist](https://ytcards.demolab.com/?id=LANGSVtPAHM&title=NEXTJS&lang=en&timestamp=1705503629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50)](https://www.youtube.com/watch?v=LANGSVtPAHM?si=6z_su3nGxVoB8d__)
 
 
 
