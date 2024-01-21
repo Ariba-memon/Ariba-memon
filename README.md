@@ -60,14 +60,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariba-memon&" alt="ariba-memon" /></p>
-
-
-
-
- ![Ariba-memon_langs](https://user-images.githubusercontent.com/76126161/209477077-81e189d2-398d-4ce1-97b5-a8a37bcbf74f.png)
- 
-
- ![Ariba-memon_repos](https://user-images.githubusercontent.com/76126161/209477095-4168b806-a649-434d-ad6e-80958a244816.png)
 
 
