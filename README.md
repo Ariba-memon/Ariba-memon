@@ -136,8 +136,8 @@
 </p>
 
 
-<h3 align="center">🎨 MY YOUTUBE VIDEO'S:</h3>
-[![NEXTJS Playlist](https://ytcards.demolab.com/?id=LANGSVtPAHM&title=NEXTJS&lang=en&timestamp=1705503629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50)](https://www.youtube.com/watch?v=LANGSVtPAHM?si=6z_su3nGxVoB8d__)
+
+
 
 
 
