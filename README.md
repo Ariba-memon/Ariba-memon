@@ -1,11 +1,17 @@
 
 ![MishManners Room animated new](https://www.ismartrecruit.com/assets/frontend/images/isr-learn_more-AI_&_Automation/Chat-Bot.gif)
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <h1 align="center"> Hi there 👋 hope you're good.</h1>
 <h2 align="center">Welcome to my GitHub profile!</h2>
-<h1 align="center">Hi 👋, I'm Ariba Memon</h1>
-<h3 align="center">I am a highly motivated and Google-certified MERN Stack & Chatbot Developer with a passion for innovation 🚀. I specialize in creating robust web and mobile applications using cutting-edge technologies, including JavaScript, ReactJS, NextJS, NodeJS, MongoDB, ExpressJS, and TypeScript. With over 4 years of hands-on experience, I have honed my skills in building interactive and scalable solutions. My expertise extends to the realm of Chatbots, where I have dedicated significant time and effort to craft intelligent conversational agents. I am proficient in implementing Chatbot solutions with platforms like Alexa and Dialogflow, enabling seamless interactions and enhancing user experiences. Additionally, I am well-versed in Generative AI and have explored various libraries and frameworks to push the boundaries of creativity. Based in Pakistan, I am committed to pushing the technological envelope and delivering exceptional solutions to meet the ever-evolving demands of the digital landscape</h3>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ariba+Memon!;" />
+</h1>
+<h3 align="center">I am a highly motivated and Google-certified MERN Stack & Chatbot Developer with a passion for innovation 🚀. I specialize in creating robust web and mobile applications using cutting-edge technologies, including JavaScript, ReactJS, NextJS, NodeJS, MongoDB, ExpressJS, TypeScript. With over 4 years of hands-on experience, I have honed my skills in building interactive and scalable solutions. My expertise extends to the realm of Chatbots, where I have dedicated significant time and effort to craft intelligent conversational agents. I am proficient in implementing Chatbot solutions with platforms like Alexa and Dialogflow, enabling seamless interactions and enhancing user experiences. Additionally, I am well-versed in Generative AI and have explored various libraries and frameworks to push the boundaries of creativity. Based in Pakistan, I am committed to pushing the technological envelope and delivering exceptional solutions to meet the ever-evolving demands of the digital landscape</h3>
+
+
+
+ <hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariba-memon&label=Profile%20views&color=0e75b6&style=flat" alt="ariba-memon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariba-memon" alt="ariba-memon" /></a> </p>
@@ -16,7 +22,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@aribaabdulqadir](https://medium.com/@aribaabdulqadir)
 
-- 💬 Ask me about **ReactJs NextJs ReactNative Alexa Dialogflow Chatbots**
+- 💬 Ask me about **ReactJs NextJs ReactNative Alexa Dialogflow Chatbots Generative AI**
 
 - 📫 How to reach me **aribaabdulqadir786@gmail.com**
 
@@ -52,9 +58,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aribamemon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aribamemon" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariba-memon&show_icons=true&locale=en&layout=compact" alt="ariba-memon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariba-memon&show_icons=true&locale=en" alt="ariba-memon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariba-memon&" alt="ariba-memon" /></p>
 
