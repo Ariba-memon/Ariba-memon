@@ -27,14 +27,17 @@
 - 📫 How to reach me **aribaabdulqadir786@gmail.com**
 
   
-
+- Web and Applications
+- Shopify Store
+- Mern Stack
+- Modern Full Stack 
 - Intelligent phone call / IVR Chatbot.
 - Google assistant apps - Google smart home apps.
 - Amazon Alexa skill - Alexa smart home apps.
 - WhatsApp, Facebook, Slack, Skype, Twitter, Telegram Chatbot.
 - All sorts of customized chatbots to integrate into Android, iOS, and Web Apps.
 
-<h3 align="center">Certifications:</h3>
+<h3 align="center">Certifications 🏆:</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="Datacamp">
     <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6" alt="Udacity">
@@ -58,18 +61,18 @@
 </p>
 
 
-<h3 align="center">Languages, Tools, Frameworks:</h3>
+<h3 align="center">📚Languages, Tools, Frameworks:</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
     <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
+      <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
     <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon">
@@ -85,6 +88,9 @@
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
     <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra">
+    <img src="https://img.shields.io/badge/Ant%20Design-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design">
+    <img src="https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
+    <img src="https://img.shields.io/badge/DaisyUI-%2322ADF6?style=for-the-badge&logo=laravel&logoColor=white" alt="DaisyUI">
 </p>
 
 
@@ -116,9 +122,11 @@
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </p>
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/aribamemon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aribamemon" /></a></p><br><br>
-
+<h3 align="center">🎨 Design & UI/UX:</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/adobe%20xd-%23FF26BE.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD">
+</p>
 
 
 
