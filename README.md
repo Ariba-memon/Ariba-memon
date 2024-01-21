@@ -34,8 +34,7 @@
 - WhatsApp, Facebook, Slack, Skype, Twitter, Telegram Chatbot.
 - All sorts of customized chatbots to integrate into Android, iOS, and Web Apps.
 
-<h3 align="left">Certifications:</h3>
-
+<h3 align="center">Certifications:</h3>
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
