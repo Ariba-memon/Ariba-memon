@@ -7,7 +7,13 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ariba+Memon!;" />
 </h1>
-<h3 align="center">I am a highly motivated and Google-certified MERN Stack & Chatbot Developer with a passion for innovation 🚀. I specialize in creating robust web and mobile applications using cutting-edge technologies, including JavaScript, ReactJS, NextJS, NodeJS, MongoDB, ExpressJS, TypeScript. With over 4 years of hands-on experience, I have honed my skills in building interactive and scalable solutions. My expertise extends to the realm of Chatbots, where I have dedicated significant time and effort to craft intelligent conversational agents. I am proficient in implementing Chatbot solutions with platforms like Alexa and Dialogflow, enabling seamless interactions and enhancing user experiences. Additionally, I am well-versed in Generative AI and have explored various libraries and frameworks to push the boundaries of creativity. Based in Pakistan, I am committed to pushing the technological envelope and delivering exceptional solutions to meet the ever-evolving demands of the digital landscape</h3>
+<h3 align="center">I am a highly motivated and Google-certified MERN Stack & Chatbot Developer, driven by a relentless passion for innovation 🚀. My expertise lies in crafting robust web and mobile applications, where I harness the power of cutting-edge technologies such as JavaScript, ReactJS, NextJS, NodeJS, MongoDB, ExpressJS, React Native, Nuxt JS, Laravel, PHP, WordPress, and TypeScript. Additionally, I am proficient in using UI frameworks and libraries like Tailwind CSS, Shadow CSS, Material UI, Chakra UI, Daisy UI, and Ant Design to enhance the user experience.
+
+With over 4 years of hands-on experience, I have refined my skills in developing interactive and scalable solutions that cater to diverse user needs. My dedication extends to the realm of Chatbots, where I have invested significant time and effort in crafting intelligent conversational agents.
+
+Proficient in implementing Chatbot solutions across platforms such as Alexa and Dialogflow, I ensure seamless interactions and elevate user experiences. Moreover, my proficiency in Generative AI allows me to explore various libraries and frameworks, pushing the boundaries of creativity in my projects.
+
+Based in Pakistan, I am committed to pushing the technological envelope and delivering exceptional solutions that meet the ever-evolving demands of the digital landscape. As a modern full-stack developer, I am driven by a relentless pursuit of excellence and innovation.</h3>
 
 
 
@@ -18,7 +24,7 @@
 
 <p align="left"> <a href="https://twitter.com/aribamemon786" target="blank"><img src="https://img.shields.io/twitter/follow/aribamemon786?logo=twitter&style=for-the-badge" alt="aribamemon786" /></a> </p>
 
-- 🌱 I’m currently learning **Certified AI, Metaverse, and Web 3.0 Developer & Solopreneur (WMD)**
+- 🌱 I’m currently learning **Devops Cloud Blockchain**
 
 - 📝 I regularly write articles on [https://medium.com/@aribaabdulqadir](https://medium.com/@aribaabdulqadir)
 
@@ -29,6 +35,7 @@
   
 - Web and Applications
 - Shopify Store
+- Woocommerce
 - Mern Stack
 - Modern Full Stack 
 - Intelligent phone call / IVR Chatbot.
